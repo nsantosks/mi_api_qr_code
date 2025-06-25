@@ -41,6 +41,7 @@ Antes de comenzar, asegúrate de tener Python 3.x instalado en tu sistema.
 
 ```bash
 python --version
+```
 
 ### Instalación
 

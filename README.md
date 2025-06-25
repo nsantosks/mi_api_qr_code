@@ -155,9 +155,12 @@ Distribuido bajo la Licencia MIT. Consulta el archivo `LICENSE` para más inform
 
 ## 📞 Contacto
 
-Tu Nombre / Nombre de tu Organización - [tu-correo@example.com](mailto:tu-correo@example.com)
+Desarrollado y mantenido por **Ing. Nestor Santos**.
 
-Enlace del Proyecto: [https://github.com/tu-usuario/nombre-de-tu-repositorio](https://www.google.com/search?q=https://github.com/tu-usuario/nombre-de-tu-repositorio)
+- **LinkedIn:** [https://www.linkedin.com/in/ingnsantos/](https://www.linkedin.com/in/ingnsantos/)
+
+  
+Enlace del Proyecto: [https://github.com/nsantosks/mi_api_qr_code](https://www.google.com/search?q=https://github.com/nsantosks/mi_api_qr_code)
 
 ```
 ```

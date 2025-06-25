@@ -1,4 +1,3 @@
-````markdown
 # 🐍 API de Generación de Códigos QR con Python
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
@@ -42,7 +41,6 @@ Antes de comenzar, asegúrate de tener Python 3.x instalado en tu sistema.
 
 ```bash
 python --version
-````
 
 ### Instalación
 

@@ -48,8 +48,8 @@ python --version
 1.  **Clona el repositorio:**
 
     ```bash
-    git clone [https://github.com/tu-usuario/nombre-de-tu-repositorio.git](https://github.com/tu-usuario/nombre-de-tu-repositorio.git)
-    cd nombre-de-tu-repositorio
+    git clone [https://github.com/nsantosks/mi_api_qr_code.git](https://github.comnsantosks/mi_api_qr_code.git)
+    cd mi_api_qr_code
     ```
 
 2.  **Crea un entorno virtual (recomendado):**
